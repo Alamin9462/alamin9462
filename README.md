@@ -1,4 +1,4 @@
-### Hi there 👋, Hi there, I'm Alamin 👋
+ Hi there, I'm Alamin 👋
 
 #### 🚀 Full Stack Developer | CSE Student | SEU Computer Club Member | DSA Enthusiast
 Hello! I’m Alamin, a passionate Full-Stack Web Engineer with a strong interest in modern technologies and continuous learning. I’m an undergraduate student of Computer Science and Engineering (CSE) at Southeast University, where I actively participate as a proud member of the Southeast University Computer Club.
