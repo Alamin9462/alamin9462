@@ -1,5 +1,6 @@
 <img src="https://i.ibb.co/Wp7D2nTL/alamin9462.png" alt="Alamin GitHub Banner" style="width:100%;" />
-
+Hi 👋, I'm Md Alamin
+🎓 MSc in CSE | 💻 Full-stack Developer | Southease University
 # 💫 About Me:
 🎓 I’m a Computer Science and Engineering (CSE) student at Southeast University, passionate about Full-Stack Web Development and modern technologies.<br>💡 As an active Southeast University Computer Club member, I love to learn, build, and collaborate on tech projects.<br><br>🚀 I enjoy:<br>Developing scalable and responsive web applications<br>Exploring modern tools like React, Node.js, MongoDB, and TypeScript<br>Strengthening my Data Structures & Algorithms (DSA) skills<br>
 
