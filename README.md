@@ -70,7 +70,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/alamin9462/alamin9462/output/snake.svg" />
+<img src="https://raw.githubusercontent.com/Alamin9462/alamin9462/output/snake.svg" />
 
 </div>
 
