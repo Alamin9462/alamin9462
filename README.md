@@ -21,4 +21,12 @@ Hi 👋, I'm Md Alamin.🎓 I’m a Computer Science and Engineering (CSE) stude
 
 ###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza;/maurodesouza;/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza;/maurodesouza;/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza;/maurodesouza;/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
