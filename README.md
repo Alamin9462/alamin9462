@@ -1,70 +1,107 @@
-<img src="https://i.ibb.co/Wp7D2nTL/alamin9462.png" alt="Alamin GitHub Banner" style="width:100%;" />
+<img src="https://i.ibb.co/Wp7D2nTL/alamin9462.png" alt="Alamin GitHub Banner" width="100%" />
 
-# 💫 About Me:
-Hi 👋, I'm Md Alamin.🎓 I’m a Computer Science and Engineering (CSE) student at Southeast University, passionate about Full-Stack Web Development and modern technologies.<br>💡 As an active Southeast University Computer Club member, I love to learn, build, and collaborate on tech projects.<br><br>🚀 I enjoy:<br>Developing scalable and responsive web applications<br>Exploring modern tools like React, Node.js, MongoDB, and TypeScript<br>Strengthening my Data Structures & Algorithms (DSA) skills<br>
+<h1 align="center">Hi 👋, I'm Md Alamin</h1>
+<h3 align="center">🚀 Full Stack Web Developer | CSE Student | MERN Stack Enthusiast</h3>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/alamin9462/">
+    <img src="https://img.shields.io/badge/LinkedIn-Alamin-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:alaminmd9462@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alamin9462/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alaminmd9462@gmail.com) 
+---
 
-# 💻 Tech Stack:
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="60" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="60" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="60" alt="eslint logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="60" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
-</div>
-###
+## 💫 About Me
 
+🎓 Computer Science & Engineering student at **Southeast University**  
+💡 Passionate about building scalable full-stack web applications  
+👨‍💻 Active member of Southeast University Computer Club  
+📚 Currently improving **Data Structures & Algorithms**  
+🌱 Exploring modern technologies like React, Node.js, MongoDB & TypeScript  
 
-###
+---
+
+## 🚀 What I Love Doing
+
+- 🔥 Developing Full Stack Web Applications (MERN)
+- 🎨 Designing Responsive & Modern UI
+- ⚡ Working with REST APIs & Authentication
+- 📈 Learning Clean Architecture & Best Practices
+- 🧠 Practicing Competitive Programming & DSA
+
+---
+
+# 💻 Tech Stack
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza;&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza;&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgresql,tailwind,html,css,git,github,vscode,figma,c,cpp,cs,dotnet" />
+
 </div>
 
+---
 
+# 📊 GitHub Stats
 
-###
+<div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=alamin9462&show_icons=true&theme=dracula" height="170" />
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alamin9462&theme=dracula" height="170" />
 
-###
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=alamin9462&theme=dracula&no-frame=false&margin-w=8&margin-h=8" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake Game
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/alamin9462/alamin9462/output/snake.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+# 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alamin9462&theme=dracula" />
+
+</div>
+
+---
+
+# 🌟 Featured Skills
+
+- ⚛️ React & Next.js
+- 🟢 Node.js & Express
+- 🍃 MongoDB & Mongoose
+- 🔐 JWT Authentication
+- 🎨 Tailwind CSS & Ant Design
+- 🧩 REST API Development
+
+---
+
+# 📬 Connect With Me
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/alamin9462/
+- 📧 Email: alaminmd9462@gmail.com
+
+---
+
+⭐️ From [alamin9462](https://github.com/alamin9462)
