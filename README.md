@@ -7,11 +7,13 @@
   <a href="https://www.linkedin.com/in/alamin9462/">
     <img src="https://img.shields.io/badge/LinkedIn-Alamin-blue?style=for-the-badge&logo=linkedin" />
   </a>
+
   <a href="mailto:alaminmd9462@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
+
   <a href="https://leetcode.com/u/zjy2SVCE58/">
-    <img src="https://github.com/user-attachments/assets/37c34c50-5310-4471-9d30-377d7b7e01f8" />
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
 
