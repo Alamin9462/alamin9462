@@ -10,6 +10,9 @@
   <a href="mailto:alaminmd9462@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
+  <a href="https://leetcode.com/u/zjy2SVCE58/">
+    <img src="https://github.com/user-attachments/assets/37c34c50-5310-4471-9d30-377d7b7e01f8" />
+  </a>
 </p>
 
 ---
@@ -101,8 +104,6 @@
 
 - 🔗 LinkedIn: https://www.linkedin.com/in/alamin9462/
 - 📧 Email: alaminmd9462@gmail.com
-- <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/37c34c50-5310-4471-9d30-377d7b7e01f8" />
- leetcode: https://leetcode.com/u/zjy2SVCE58/
   
 ---
 
